@@ -1,0 +1,19 @@
+
+body {
+background-color: rgb(196, 225, 235);
+}
+
+h1 {
+  color: rgb(48, 6, 6);
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 14px;
+}
+footer {
+  font-family: verdana;
+  font-size: 16px;
+  color: rgb(48, 6, 6);
+}
